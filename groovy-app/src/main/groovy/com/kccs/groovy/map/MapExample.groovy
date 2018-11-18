@@ -16,4 +16,6 @@ println map1.size()
 
 println map1
 
+// get from map where map key is xxx
+
 println map1.xxx
