@@ -1,5 +1,9 @@
 package ScritVsClass;
 
+
+/*
+ * 
+ */
 public class FirstJavaClass {
 
 	private String name;
