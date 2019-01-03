@@ -9,6 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
  * test comment
  * 
  * This change will be on feature branch fb1
+ * 
+ * This is my second change on fb1
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
