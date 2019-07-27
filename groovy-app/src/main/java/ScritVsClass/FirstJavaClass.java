@@ -10,7 +10,7 @@ public class FirstJavaClass {
 	
 	public static void main(String[] args) {
 		FirstJavaClass fj = new FirstJavaClass();
-		fj.setName("Al");
+		fj.setName("Alan");
 		System.out.println(fj.success());
 	}
 
